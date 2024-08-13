@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArchitecture.Presantation.Contracts
-build_property.ProjectDir = C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\
+build_property.ProjectDir = C:\Users\hien.pham\myspace\CA\Dotnet-CleanArchitecture\CleanArchitecture.Presantation.Contracts\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

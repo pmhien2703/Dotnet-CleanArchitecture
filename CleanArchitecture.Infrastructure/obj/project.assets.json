@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
       "projectName": "CleanArchitecture.Infrastructure",
-      "projectPath": "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\hien.pham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hien.pham\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,8 +72,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-              "projectPath": "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+            "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+              "projectPath": "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Presantation.Contracts\\CleanArchitecture.Presantation.Contracts.csproj": {}
+    "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Presantation.Contracts\\CleanArchitecture.Presantation.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Presantation.Contracts\\CleanArchitecture.Presantation.Contracts.csproj": {
+    "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Presantation.Contracts\\CleanArchitecture.Presantation.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Presantation.Contracts\\CleanArchitecture.Presantation.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Presantation.Contracts\\CleanArchitecture.Presantation.Contracts.csproj",
         "projectName": "CleanArchitecture.Presantation.Contracts",
-        "projectPath": "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Presantation.Contracts\\CleanArchitecture.Presantation.Contracts.csproj",
+        "projectPath": "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Presantation.Contracts\\CleanArchitecture.Presantation.Contracts.csproj",
         "packagesPath": "C:\\Users\\hien.pham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hien.pham\\myspace\\CA\\CleanArchitecture.Presantation.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\hien.pham\\myspace\\CA\\Dotnet-CleanArchitecture\\CleanArchitecture.Presantation.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hien.pham\\AppData\\Roaming\\NuGet\\NuGet.Config",
