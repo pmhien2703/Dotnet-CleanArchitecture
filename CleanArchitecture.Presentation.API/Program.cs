@@ -1,11 +1,12 @@
-using CleanArchitecture.Application.Authentication;
+using CleanArchitecture.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 {
     builder.Services.AddControllers();
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
-    builder.Services.AddTransient<IAuthenticationService, AuthenticationService>();
+    builder.Services.AddApplication();
+    builder.Services.AddInfrastructure();
 }
 
 var app = builder.Build();
