@@ -1,0 +1,11 @@
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\bin\Debug\net8.0\CleanArchitecture.Presantation.Contracts.deps.json
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\bin\Debug\net8.0\CleanArchitecture.Presantation.Contracts.dll
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\bin\Debug\net8.0\CleanArchitecture.Presantation.Contracts.pdb
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\obj\Debug\net8.0\CleanArchitecture.Presantation.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\obj\Debug\net8.0\CleanArchitecture.Presantation.Contracts.AssemblyInfoInputs.cache
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\obj\Debug\net8.0\CleanArchitecture.Presantation.Contracts.AssemblyInfo.cs
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\obj\Debug\net8.0\CleanArchitecture.Presantation.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\obj\Debug\net8.0\CleanArchitecture.Presantation.Contracts.dll
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\obj\Debug\net8.0\refint\CleanArchitecture.Presantation.Contracts.dll
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\obj\Debug\net8.0\CleanArchitecture.Presantation.Contracts.pdb
+C:\Users\hien.pham\myspace\CA\CleanArchitecture.Presantation.Contracts\obj\Debug\net8.0\ref\CleanArchitecture.Presantation.Contracts.dll
