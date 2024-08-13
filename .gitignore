@@ -1,0 +1,67 @@
+# Ignore build outputs
+bin/
+obj/
+out/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+# Uncomment if you have the NuGet package cache stored here
+# .nuget/
+
+# Ignore Visual Studio and Rider files
+.vscode/
+.idea/
+.vscode/
+*.vs*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sln.ide
+*.csproj.ide
+
+# Ignore Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore VS Code workspace
+.vscode/
+
+# Ignore ASP.NET temporary files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore publish directory
+publish/
+
+# Ignore logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore test result directories
+TestResults/
+
+# Ignore global AssemblyInfo
+AssemblyInfo.cs
+
+# Ignore secrets and environment files
+secrets.json
+.env
+.env.*
+
+# Ignore coverage files
+coverage/
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Ignore stylecop config
+.stylecop/
